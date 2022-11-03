@@ -5,6 +5,8 @@
     scroll-behavior: smooth;
 }
 
+/* added smoth scroll */
+
 body {
     background-color: #d9dcd6;
 }
@@ -51,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* changed div to figure in html so I could add description to background img with title without distorting the image by moving all hero attributes into HTML from css */
 .hero {
     height: 800px;
     width: 100%;
@@ -76,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/* changed background colour from #2589bd to #0072bb to improve readabilty/contrast */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -87,6 +91,7 @@ p {
     background-color: #0072bb;
 }
 
+/* grouped the below together so to not repeat my code */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -94,6 +99,7 @@ p {
     color: #ffffff;
 }
 
+/* grouped the below together so to not repeat my code */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -101,6 +107,7 @@ p {
     text-align: center;
 }
 
+/* grouped the below together so to not repeat my code */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -109,6 +116,7 @@ p {
     max-width: 150px;
 }
 
+/* grouped the below together so to not repeat my code */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -120,12 +128,14 @@ p {
     color: #ffffff;
 }
 
+/* grouped the below together so to not repeat my code */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* grouped the below together so to not repeat my code */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -140,6 +150,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+/* changed h2 to h4 so it descends in size correctly */
+footer h4 {
     font-size: 20px;
 }

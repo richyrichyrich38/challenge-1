@@ -1,4 +1,4 @@
-# Challenge-01 HTML CSS Git: Code Refactor
+# Horiseon HTML CSS Git: Code Refactor
 
 ## Description
 
@@ -31,12 +31,14 @@ Secondary noteworthy changes:
 
 ## Installation
 
-The site has now been deployed so you can access the site directly by pasting https://richyrichyrich38.github.io/challenge-1/ into your browser and/or you are also welcome to assess the code by the pasting repository link https://github.com/richyrichyrich38/challenge-1
+Please see the below link for the deployed site:
+
+https://richyrichyrich38.github.io/horiseon/
 
 ## Credits
 
-- Richard Hills https://github.com/richyrichyrich38
+- Richard Hills Jr https://github.com/richyrichyrich38
 
 ## License
 
-Please refer to the LICENSE in the repo.
+Please refer to the MIT LICENSE in the repo.
